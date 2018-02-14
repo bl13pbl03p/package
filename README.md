@@ -1,7 +1,7 @@
 # package
 Repository to learn the basics of node modules and npm packages.
 
-[![packages]](https://unsplash.com/photos/JuFcQxgCXwA)
+![packages](https://unsplash.com/photos/JuFcQxgCXwA)
 
 # My process
 
