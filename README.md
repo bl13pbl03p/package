@@ -3,8 +3,8 @@
 # My process
 
 ## What I used
-* [``](https://mochajs.org)
-* [``](https://github.com/standard/standard)
+* [`mochajs`](https://mochajs.org)
+* [`standard`](https://github.com/standard/standard)
 
 ## What I learned
 
