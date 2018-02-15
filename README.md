@@ -1,7 +1,8 @@
 # package
+![packages](https://images.unsplash.com/photo-1470173274384-c4e8e2f9ea4c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8f8bf185da8d21fad65f2636d6021ba7&auto=format&fit=crop&w=2250&q=80)
 Repository to learn the basics of node modules and npm packages.
 
-![packages](https://images.unsplash.com/photo-1470173274384-c4e8e2f9ea4c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8f8bf185da8d21fad65f2636d6021ba7&auto=format&fit=crop&w=2250&q=80)
+## Description
 
 # My process
 
