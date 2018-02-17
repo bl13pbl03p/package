@@ -1,26 +1,26 @@
 {
-  "name": "package",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha",
-    "test": "standard"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jessiegouw/package.git"
-  },
-  "keywords": [],
-  "author": "Jessie Gouw",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jessiegouw/package/issues"
-  },
-  "devDependencies": {
-    "standard": "^10.3"
-  },
-  "dependencies": {
-    "mocha": "^5.0.1"
-  }
+	"name": "package",
+	"version": "1.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha",
+		"test": "standard"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jessiegouw/package.git"
+	},
+	"keywords": [],
+	"author": "Jessie Gouw",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jessiegouw/package/issues"
+	},
+	"devDependencies": {
+		"standard": "^10.3"
+	},
+	"dependencies": {
+		"mocha": "^5.0.1"
+	}
 }
