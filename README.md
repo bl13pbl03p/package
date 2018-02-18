@@ -6,6 +6,9 @@ Repository to learn the basics of node modules and npm packages.
 npm install repeat-string
 ```
 
+## Usage
+
+
 ## Modules
 * [`repeat-string`](https://www.npmjs.com/package/repeat-string)
 
