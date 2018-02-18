@@ -23,8 +23,8 @@ vowel.grawlix = grawlix;
 * [`repeat-string`](https://www.npmjs.com/package/repeat-string)
 
 ## What I used
-* [`mochajs`](https://mochajs.org)
-* [`standard`](https://github.com/standard/standard)
+* [`mochajs`](https://mochajs.org) for unit tests.
+* [`standard`](https://github.com/standard/standard) for code linting.
 
 ## Sources
 * [Everything You Wanted To Know About package-lock.json But Were Too Afraid To Ask](https://medium.com/@Quigley_Ja/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8)
