@@ -19,6 +19,9 @@ vowel.inner = inner;
 vowel.grawlix = grawlix;
 ```
 
+## Error handling
+Contact @wooorm for bugs and fixes ;)
+
 ## Modules
 * [`repeat-string`](https://www.npmjs.com/package/repeat-string)
 
