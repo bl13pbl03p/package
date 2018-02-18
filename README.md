@@ -7,12 +7,20 @@ npm install repeat-string
 ```
 
 ## Usage
+```js
+var repeat = require('repeat-string');
 
+/* Expose `vowel` as default function: vowel = require('this package'). */
+module.exports = vowel;
+
+/* Add other functions on `vowel`: inner = require('this package').inner. */
+vowel.vowel = vowel;
+vowel.inner = inner;
+vowel.grawlix = grawlix;
+```
 
 ## Modules
 * [`repeat-string`](https://www.npmjs.com/package/repeat-string)
-
-## My process
 
 ## What I used
 * [`mochajs`](https://mochajs.org)
